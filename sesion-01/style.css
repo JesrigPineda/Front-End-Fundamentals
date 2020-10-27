@@ -1,0 +1,17 @@
+body {
+    background: #fffbf7;
+}
+
+/* Identificador*/
+#titulo {
+    color: #46484c;
+}
+/* Clases*/
+.parrafo{
+    color: #8b8b8bcc;
+}
+/* Elemento*/
+button{
+    color: #fff;
+    background: #025157;
+}
