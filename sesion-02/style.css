@@ -1,0 +1,52 @@
+.header,
+.logo,
+.navbar,
+.menu,
+.actions {
+  display: inline-block;
+}
+
+.header {
+  width: 100%;
+  margin: 20px;
+  font-family: sans-serif;
+}
+
+.logo {
+  margin: 0px 20px;
+}
+
+.navbar {
+  width: 70%;
+  text-align: center;
+  height: 45px;
+}
+
+.menu-item > a {
+  text-decoration: none;
+  color: #025157;
+  margin: 0px 25px;
+}
+
+li {
+  display: inline;
+}
+
+.actions {
+  width: 15%;
+  font-size: 14px;
+}
+
+.actions > a {
+  text-decoration: none;
+  color: #67b54b;
+  margin: 0px 10px;
+}
+
+.actions button {
+  color: white;
+  background: #67b54b;
+  padding: 12px 14px;
+  border: 0;
+  border-radius: 5px;
+}
